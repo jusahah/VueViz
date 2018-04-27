@@ -1,0 +1,16 @@
+{
+  "name": "vueviz",
+  "version": "1.0.0",
+  "description": "Vue plugin for seeing changes in component tree while developing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "visualization",
+    "dev",
+    "tree"
+  ],
+  "author": "Jussi Hämäläinen <jussiahamalainen@gmail.com> (http://www.nollaversio.fi)",
+  "license": "MIT"
+}
